@@ -1,2 +1,2 @@
 # fastai_pytorch10
-Learning Repo
+Learning Repositories, I will try to update this repository for every lesson.
